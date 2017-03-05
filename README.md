@@ -1,5 +1,7 @@
 ## C# for Visual Studio Code (powered by OmniSharp)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Mattlk13/https-github.com-OmniSharp-omnisharp-vscode.svg)](https://greenkeeper.io/)
+
 |Master|Release|
 |:--:|:--:|
 |[![Master Build Status](https://travis-ci.org/OmniSharp/omnisharp-vscode.svg?branch=master)](https://travis-ci.org/OmniSharp/omnisharp-vscode)|[![Release Build Status](https://travis-ci.org/OmniSharp/omnisharp-vscode.svg?branch=release)](https://travis-ci.org/OmniSharp/omnisharp-vscode)|
